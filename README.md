@@ -33,4 +33,4 @@ The aim of this study is to identify which song-level characteristics are associ
 3. Repeat modelling within genres to test whether acoustic features behave differently across different genres of music.
 4. Use continuous popularity measures such as popularity scores and chart ranks as they carry more information than a binary label. Will allow us to analyse how much popularity changes rather that only popular vs not popular. 
 
-In conclusion, his project shows that while acoustic features and simple metadata can detect small associations with song popularity, they provide limited predictive power on their own. The key finding is that modelling popularity requires more information beyond audio features.
+In conclusion, this project shows that while acoustic features and simple metadata can detect small associations with song popularity, they provide limited predictive power on their own. The key finding is that modelling popularity requires more information beyond audio features.
