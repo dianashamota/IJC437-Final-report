@@ -1,5 +1,6 @@
 # IJC437-Final-report
 **1.1 Research aim**
+
 The aim of this study is to identify which song-level characteristics are associated with popularity in the MusicOSet dataset and to evaluate whether acoustic features and metadata can predict whether a song is classified as popular
 
 **Research questions**
