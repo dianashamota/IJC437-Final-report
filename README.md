@@ -16,6 +16,8 @@ The aim of this study is to identify which song-level characteristics are associ
 **Key findings**
 1. Acoustic features have statistically significant but limited predictive value. Danceability and Valence were positively associated with popularity, while speechiness, acousticness, energy and instrumentalness were negatively associated. Overall fit of the Model 1 was low (Nagelkerke R² ≈ 0.02) and discrimination was close to chance (AUC ≈ 0.570).
 2. Metadata provides weak signals and adds little on top of acoustics. Explicitness was consistently associated with lower odds of popularity, while collaboration was not a reliable predictor. Model 3 with combined acoustics and metadata only marginally improved performance (Nagelkerke R² ≈ 0.024).
+3. Acoustic features and metadata are not enough to correctly predict
+popularity. More external features are needed to predict song popularity. 
 
 **Limitations**
 1. The MusicOSet dataset contains 10,228 songs (post-1985), which is small in comparison with the volume of music released in the real world. For context, there were close to 10.5 million songs released in 2024 alone. Therefore, 10,228 songs across 30 years do not feel like a representative enough data frame and limit how confidently results can represent the wider industry.
